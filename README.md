@@ -8,8 +8,19 @@ Open the `Vertex Cover Problem.pdf` file for the project report.
 
 ##### To run the code of any algorithm open the folder and just run: 
 
-`$ g++ code.cpp`
+* To compile:
+``` bash
+$ g++ code.cpp
+```
 
-`$ ./a.out < input.txt` or enter the input manually as the algorithm asks.
+* To run with input from input.txt:
+``` bash
+$ ./a.out < input.txt
+```
+
+* To run and give input as algorithm asks:
+``` bash
+$ ./a.out 
+```
 
 ##### Aditya Gupta (170001002) & Ravi Maurya (170001039)
